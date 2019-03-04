@@ -17,6 +17,8 @@ Write out your table structure before coding. Which columns will have text or in
 
 Work directly in PSQL. Run `psql` in your terminal.
 
+Create a table named cheeses.
+
 **Exception** - Wanna write a seed file for all the cheese info (located in the section below)? Go for it!
 
 #### Buying Cheese
