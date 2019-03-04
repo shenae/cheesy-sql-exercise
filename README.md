@@ -13,6 +13,7 @@ Create a `cheeses_db` database as a collection to store cheeses. Each document s
 Keep track of your commands! Write out your answers in the provided `cheeses.sql.`
 
 ## Setup
+Write out your table structure before coding. Which columns will have text or integers? Will you use VARCHAR(255)?
 
 Work directly in PSQL. Run `psql` in your terminal.
 
