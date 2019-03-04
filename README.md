@@ -8,7 +8,7 @@ But say we did. To solve this "hypothetical" problem, let's build a psql databas
 
 ## Mission
 
-Create a `cheeses_db` database as a collection to store cheeses. Each document should store a **name, color, origin, and stink_level**.
+Create a `cheeses_db` database as a collection to store cheeses. Each document should store a **cheese_id, name, color, origin, and stink_level**.
 
 Keep track of your commands! Write out your answers in the provided `cheeses.sql.`
 
