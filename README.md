@@ -2,7 +2,7 @@
 
 You know that problem, where there's so many different types of cheeses in your fridge, that you lose track of 'em?!
 
-Yeah, me neither, I've never had that issue. Never. Never, never, ever.
+Yeah, me neither, I've never had that issue. **Never.** Never, never, ever.
 
 But say we did. To solve this "hypothetical" problem, let's build a psql database that will organize all the cheeses.
 
