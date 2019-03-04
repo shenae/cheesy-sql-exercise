@@ -4,7 +4,7 @@ You know that problem, where there's so many different types of cheeses in your 
 
 Yeah, me neither, I've never had that issue. **Never.** Never, never, ever.
 
-But say we did. To solve this "hypothetical" problem, let's build a psql database that will organize all the cheeses.
+But say we did. To solve this "hypothetical" problem, let's build a `psql` database that will organize all the cheeses.
 
 ## Mission
 
@@ -13,7 +13,7 @@ Create a `cheeses_db` database as a collection to store cheeses. Each document s
 Keep track of your commands! Write out your answers in the provided `cheeses.sql.`
 
 ## Setup
-Write out your table structure before coding. Which columns will have text or integers? Will you use VARCHAR(255)?
+Write out your table structure before coding. Which columns will have text or integers? Will you use VARCHAR?
 
 Work directly in PSQL. Run `psql` in your terminal.
 
