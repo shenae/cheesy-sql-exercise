@@ -67,7 +67,7 @@ The cheese game is changing constantly. Let's update our cheeses. Save your quer
 - Add a column named paseurized with a boolean datatype (see table below)
 - Change "Monterey Jack" to "Pepper Jack"
 
-```
+
 | animal_milk | pasteurized|
 |-------------|------------|
 | cow | true |
@@ -78,4 +78,4 @@ The cheese game is changing constantly. Let's update our cheeses. Save your quer
 | cow | true |
 | cow | true |
 | cow | true |
-```
+
