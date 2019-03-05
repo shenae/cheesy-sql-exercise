@@ -69,7 +69,7 @@ The cheese game is changing constantly. Let's update our cheeses. Save your quer
 
 
 |name| animal_milk | pasteurized|
-|-------------|------------|
+|:-------------|------------:|
 | Epoisses | cow | true |
 | Charolais | goat | false |
 | Maroilles | cow | true || false |
