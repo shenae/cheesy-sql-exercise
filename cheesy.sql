@@ -30,4 +30,5 @@
 -- Change the stink level of Stichelton to be 7
 
 -- Add the cheese "Monterey Jack", an American cheese with a stink level of 0
--- Delete Durrus
+-- Add a column named animal_milk with a datatype of VARCHAR(50) to the cheeses table (see table below)
+-- Add a column named paseurized with a boolean datatype 
