@@ -63,7 +63,19 @@ The cheese game is changing constantly. Let's update our cheeses. Save your quer
 - Delete the Hooligan cheese
 - Change the stink level of Stichelton to be 7
 - Add the cheese "Monterey Jack", an American cheese with a stink level of 0
-- Delete Durrus
-- Change the stink level of Teleme to be 1
-- Delete Epoisses
+- Add a column named animal_milk with a datatype of VARCHAR(50) to the cheeses table (see table below)
+- Add a column named paseurized with a boolean datatype (see table below)
 - Change "Monterey Jack" to "Pepper Jack"
+
+```
+| animal_milk | pasteurized|
+|-------------|------------|
+| cow | true |
+| goat | false |
+| cow | true || false |
+| cow | false |
+| sheep | false |
+| cow | true |
+| cow | true |
+| cow | true |
+```
