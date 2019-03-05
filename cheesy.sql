@@ -32,3 +32,5 @@
 -- Add the cheese "Monterey Jack", an American cheese with a stink level of 0
 -- Add a column named animal_milk with a datatype of VARCHAR(50) to the cheeses table (see table below)
 -- Add a column named paseurized with a boolean datatype 
+-- Add the new cheese data
+-- Change the name of Montery Jack to Pepper Jack
