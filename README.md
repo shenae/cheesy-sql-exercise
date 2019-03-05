@@ -65,6 +65,7 @@ The cheese game is changing constantly. Let's update our cheeses. Save your quer
 - Add the cheese "Monterey Jack", an American cheese with a stink level of 0
 - Add a column named animal_milk with a datatype of VARCHAR(50) to the cheeses table (see table below)
 - Add a column named paseurized with a boolean datatype (see table below)
+- Add the new cheese data (see table below)
 - Change "Monterey Jack" to "Pepper Jack"
 
 
