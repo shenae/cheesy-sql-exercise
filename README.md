@@ -50,6 +50,7 @@ Now write PostgreSQL queries to accomplish the following:
 - Find all cheeses that are not from France.
 
 **TIP** Stuck? Check the [PG documentation](https://www.postgresql.org/docs/)!
+Also, [postgresqltutorial.com](http://www.postgresqltutorial.com/postgresql-select/)
 
 #### Restocking Cheese
 
