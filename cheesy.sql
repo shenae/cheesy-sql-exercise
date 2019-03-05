@@ -9,7 +9,7 @@
 
 -- Find all cheeses with a stink level of 10
 
--- Find all French cheeses with a stink level of 5
+-- Find all yellow cheeses with a stink level of 5
 
 -- Find all Irish cheeses with a stink level of 6
 
