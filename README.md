@@ -72,7 +72,7 @@ The cheese game is changing constantly. Let's update our cheeses. Save your quer
 |-------------|------:|------------:|
 | Epoisses | cow | true |
 | Charolais | goat | false |
-| Maroilles | cow | true || false |
+| Maroilles | cow | false |
 |Durrus | cow | false |
 |Roquefort | sheep | false |
 |Teleme | cow | true |
