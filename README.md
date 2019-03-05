@@ -45,7 +45,7 @@ Now write PostgreSQL queries to accomplish the following:
 - Find all the English cheeses
 - Find all cheeses with a stink level of 2
 - Find all cheeses with a stink level of 10
-- Find all French cheeses with a stink level of 5
+- Find all yellow cheeses with a stink level of 5
 - Find all Irish cheeses with a stink level of 6
 - Find all cheeses with a stink level of at least 4, but no greater than 8.
 - Find all American and English cheeses.
