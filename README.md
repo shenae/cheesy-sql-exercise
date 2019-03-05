@@ -68,7 +68,7 @@ The cheese game is changing constantly. Let's update our cheeses. Save your quer
 - Change "Monterey Jack" to "Pepper Jack"
 
 
-|name|| animal_milk | pasteurized|
+|name| animal_milk | pasteurized|
 |-------------|------------|
 | Epoisses | cow | true |
 | Charolais | goat | false |
