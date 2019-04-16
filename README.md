@@ -1,14 +1,21 @@
-![psql practice](https://cdn.pastemagazine.com/www/system/images/photo_albums/cheese-memes/large/h5b39f396.jpeg?1384968217)
+---
+title: SQL Setup, Insert, Update, and Delete
+type: lesson
+duration: "2:20"
+creator:
+    name: N/A
+    modified by: Celeste Layne
+    city: NYC
+competencies: Databases
+---
 
-You know that problem, where there's so many different types of cheeses in your fridge, that you lose track of 'em?!
-
-Yeah, me neither, I've never had that issue. **Never.** Never, never, ever.
+You know that problem, where there's so many different types of cheeses in your fridge, that you lose track of 'em?! Yeah, me neither, I've never had that issue. **Never.** Never, never, ever.
 
 But say we did. To solve this "hypothetical" problem, let's build a `psql` database that will organize all the cheeses.
 
-## Mission
+## Introduction
 
-Create a `cheeses_db` database as a collection to store cheeses. Each document should store a **cheese_id, name, color, origin, and stink_level**.
+Create a `cheeses_db` database as a collection to store cheeses. Each document should store a **cheese\_id, name, color, origin, and stink_level**.
 
 Keep track of your commands! Write out your answers in the provided `cheeses.sql.`
 
