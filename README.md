@@ -1,7 +1,7 @@
 ---
-title: SQL Setup, Insert, Update, and Delete
-type: lesson
-duration: "2:20"
+title: Cheesy SQL Lab
+type: Lab
+duration: "N/A"
 creator:
     name: N/A
     modified by: Celeste Layne
