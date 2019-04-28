@@ -1,4 +1,6 @@
-![psql practice](https://cdn.pastemagazine.com/www/system/images/photo_albums/cheese-memes/large/h5b39f396.jpeg?1384968217)
+![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) 
+
+# SQL Select Lab
 
 You know that problem, where there's so many different types of cheeses in your fridge, that you lose track of 'em?!
 
